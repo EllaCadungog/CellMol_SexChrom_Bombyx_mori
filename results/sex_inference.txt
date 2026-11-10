@@ -1,0 +1,26 @@
+SEX-CHROMOSOME DOSAGE ANALYSIS
+Species: Bombyx mori (Domestic silkworm)
+
+CHROMOSOME DEPTH RESULTS
+        rname group  meandepth relative_depth
+1 NC_085107.1     A 55.1890000    1.023013115
+2 NC_085108.1     A 52.2842000    0.969168173
+3 NC_085109.1     A 53.9475000    1.000000000
+4 NC_085110.1     A 53.8861000    0.998861856
+5 NC_085111.1     A 55.5318000    1.029367441
+6 NC_085134.1     Z 50.7620000    0.940951851
+7 NC_085135.1     W  0.0623213    0.001155221
+
+Median autosomal depth: 53.9475 
+Z chromosome depth: 50.762 
+Z:A ratio: 0.9409519 
+
+INTERPRETATION
+Consistent with two Z chromosomes (ZZ-like). 
+
+LIMITATIONS
+1. Mapping bias and repetitive sequences may affect read depth.
+2. Sex-chromosome annotation must be verified using NCBI records.
+3. The W chromosome may have very low coverage or may be poorly assembled.
+4. Compare the result with the WGS BioSample sex information.
+5. The assembly and WGS sample should ideally come from the same individual.
